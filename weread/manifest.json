@@ -1,0 +1,14 @@
+{
+  "name": "WeRead",
+  "short_name": "WeRead",
+  "start_url": "https://weread.qq.com",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://rescdn.qqmail.com/node/wr/wrpage/style/images/independent/appleTouchIcon/apple-touch-icon-152x152.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
