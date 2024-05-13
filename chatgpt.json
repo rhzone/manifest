@@ -1,6 +1,6 @@
 {
-  "name": "ChatGPT1",
-  "short_name": "ChatGPT1",
+  "name": "ChatGPT",
+  "short_name": "ChatGPT",
   "start_url": "https://chatgpt.com",
   "display": "standalone",
   "background_color": "#ffffff",
