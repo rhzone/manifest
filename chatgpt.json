@@ -3,6 +3,7 @@
   "short_name": "ChatGPT",
   "start_url": "https://chatgpt.com",
   "display": "standalone",
+  "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "icons": [
     {
