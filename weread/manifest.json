@@ -2,7 +2,8 @@
   "name": "WeRead",
   "short_name": "WeRead",
   "start_url": "https://weread.qq.com",
-  "display": "standalone",
+  "display": "minimal-ui",
+  
   "theme_color": "#ffffff",
   "icons": [
     {
