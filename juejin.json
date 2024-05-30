@@ -1,11 +1,11 @@
 {
-  "name": "frontend",
-  "short_name": "frontend",
+  "name": "前端",
+  "short_name": "前端",
   "start_url": "https://juejin.cn/frontend",
   "display": "standalone",
   "icons": [
     {
-      "src": "https://xitu.gallerycdn.vsassets.io/extensions/xitu/juejin/0.2.0/1620821935376/Microsoft.VisualStudio.Services.Icons.Default",
+      "src": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "180x180"
     }
