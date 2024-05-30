@@ -1,6 +1,6 @@
 {
-  "name": "前端",
-  "short_name": "前端",
+  "name": "frontend",
+  "short_name": "frontend",
   "start_url": "https://juejin.cn/frontend",
   "display": "standalone",
   "icons": [
