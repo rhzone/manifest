@@ -3,8 +3,6 @@
   "short_name": "前端",
   "start_url": "https://juejin.cn/frontend",
   "display": "standalone",
-  "display_override": ["tabbed"],
-  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/apple-touch-icon.png",
