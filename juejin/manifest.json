@@ -1,0 +1,13 @@
+{
+  "name": "前端",
+  "short_name": "前端",
+  "start_url": "https://juejin.cn",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ]
+}
