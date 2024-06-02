@@ -1,0 +1,13 @@
+{
+  "name": "LeetCode 100",
+  "short_name": "LC H100",
+  "start_url": "https://leetcode.cn/studyplan/top-100-liked/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ]
+}
