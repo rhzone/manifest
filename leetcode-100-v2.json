@@ -8,7 +8,8 @@
     {
       "src": "https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "225x225",
+      "purpose": "maskable"
     }
   ]
 }
