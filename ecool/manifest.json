@@ -8,7 +8,7 @@
     {
       "src": "https://raw.githubusercontent.com/rhzone/manifest/main/ecool/icon.jpeg",
       "type": "image/jpeg",
-      "sizes": "132x132",
+      "sizes": "192x192",
       "purpose": "maskable"
     }
   ]
