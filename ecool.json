@@ -1,0 +1,14 @@
+{
+  "name": "ecool",
+  "start_url": "https://fe.ecool.fun/topic-list",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://fe.ecool.fun/fe.ico",
+      "type": "image/icon",
+      "sizes": "48x48",
+      "purpose": "maskable"
+    }
+  ]
+}
