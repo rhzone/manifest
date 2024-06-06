@@ -1,13 +1,14 @@
 {
   "name": "ecool",
+  "short_name": "ecool",
   "start_url": "https://fe.ecool.fun/topic-list",
   "display": "standalone",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://fe.ecool.fun/fe.ico",
-      "type": "image/icon",
-      "sizes": "48x48",
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/ecool/icon.jpeg",
+      "type": "image/jpeg",
+      "sizes": "132x132",
       "purpose": "maskable"
     }
   ]
