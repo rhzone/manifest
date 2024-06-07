@@ -1,0 +1,14 @@
+{
+  "name": "vuex",
+  "short_name": "vuex",
+  "start_url": "https://vuex.vuejs.org/zh",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/vuex/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ]
+}
