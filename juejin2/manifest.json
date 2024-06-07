@@ -2,11 +2,10 @@
   "name": "前端",
   "short_name": "前端",
   "start_url": "https://juejin.cn/frontend",
-  "theme_color": "#ffffff",
   "display": "standalone",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/juejin1/192x192.png",
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/juejin2/192x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
