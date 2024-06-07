@@ -5,8 +5,8 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/redux/192x192.png",
-      "type": "image/png",
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/redux/192x192.jpg",
+      "type": "image/jpeg",
       "sizes": "192x192",
       "purpose": "maskable"
     }
