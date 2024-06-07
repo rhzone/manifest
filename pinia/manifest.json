@@ -1,0 +1,14 @@
+{
+  "name": "pinia",
+  "short_name": "pinia",
+  "start_url": "https://pinia.vuejs.org/zh",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/pinia/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "redux",
+  "short_name": "redux",
+  "start_url": "https://cn.redux.js.org/introduction/getting-started",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/redux/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ]
+}
