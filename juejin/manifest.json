@@ -6,9 +6,9 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/juejin/96x96.png",
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/juejin/192x192.png",
       "type": "image/png",
-      "sizes": "96x96",
+      "sizes": "192x192",
       "purpose": "maskable"
     }
   ]
