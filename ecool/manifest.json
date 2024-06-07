@@ -6,8 +6,8 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/ecool/icon.jpeg",
-      "type": "image/jpeg",
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/ecool/192x192.png",
+      "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
     }
