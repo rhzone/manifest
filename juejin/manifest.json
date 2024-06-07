@@ -3,6 +3,7 @@
   "short_name": "前端",
   "start_url": "https://juejin.cn/frontend",
   "display": "standalone",
+  "theme_color": "#e2e2e2",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/rhzone/manifest/main/juejin/192x192.png",
