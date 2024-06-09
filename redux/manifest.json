@@ -2,6 +2,7 @@
   "name": "redux",
   "short_name": "redux",
   "start_url": "https://cn.redux.js.org/introduction/getting-started",
+  "scope": "/",
   "display": "standalone",
   "icons": [
     {
