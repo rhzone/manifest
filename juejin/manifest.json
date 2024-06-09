@@ -2,6 +2,7 @@
   "name": "前端",
   "short_name": "前端",
   "start_url": "https://juejin.cn/frontend",
+  "scope": "/",
   "display": "standalone",
   "icons": [
     {
