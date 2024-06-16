@@ -1,14 +1,13 @@
 {
   "name": "LC H100",
-  "short_name": "LCH100",
+  "short_name": "LC H100",
   "start_url": "https://leetcode.cn/studyplan/top-100-liked",
   "display": "standalone",
-  "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png",
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/juejin/192x192.png",
       "type": "image/png",
-      "sizes": "225x225",
+      "sizes": "192x192",
       "purpose": "maskable"
     }
   ]
