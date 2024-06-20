@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  减少 ChatGPT 官方网页需要频繁刷新的简单办法
 // @author       https://v2ex.com/t/926890
-// @match        https://chatgpt.com/chat*
+// @match        https://chatgpt.com/*
 // @icon         https://chatgpt.com/favicon.ico
 // @grant        none
 // @license MIT
