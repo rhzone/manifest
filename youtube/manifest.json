@@ -1,7 +1,7 @@
 {
   "name": "YouTube",
   "short_name": "YouTube",
-  "start_url": "https://youtube.com/",
+  "start_url": "https://m.youtube.com/",
   "display": "standalone",
   "icons": [
     {
