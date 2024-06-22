@@ -1,0 +1,14 @@
+{
+  "name": "YouTube",
+  "short_name": "YouTube",
+  "start_url": "https://youtube.com/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/youtube/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ]
+}
