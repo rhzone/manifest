@@ -7,8 +7,8 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/weread/192x192.png",
-      "type": "image/png",
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/weread/192x192.webp",
+      "type": "image/webp",
       "sizes": "512x512"
     }
   ],
