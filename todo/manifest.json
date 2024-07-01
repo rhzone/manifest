@@ -9,8 +9,8 @@
     {
       "src": "https://raw.githubusercontent.com/rhzone/manifest/main/todo/todo.svg",
       "type": "image/svg+xml",
-      "sizes": "any",
-      "purpose": "any maskable"
+      "sizes": "192x192",
+      "purpose": "maskable"
     }
   ]
 }
