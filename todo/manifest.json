@@ -7,7 +7,7 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/todo/icon.png",
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/todo/ic_launcher.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
