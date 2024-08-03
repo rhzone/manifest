@@ -1,0 +1,13 @@
+{
+  "short_name": "牛津词典",
+  "name": "牛津高阶词典",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
