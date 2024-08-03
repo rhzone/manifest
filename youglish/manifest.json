@@ -1,0 +1,15 @@
+{
+  "name": "WeRead",
+  "short_name": "WeRead",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/youglish/192x192.webp",
+      "type": "image/webp",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ],
+  "prefer_related_applications": false
+}
