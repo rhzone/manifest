@@ -1,0 +1,13 @@
+{
+  "short_name": "Code",
+  "name": "Code",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/rhzone/manifest/main/code-server/vscode.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "http://127.0.0.1:8080",
+  "display": "standalone"
+}
