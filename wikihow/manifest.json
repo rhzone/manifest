@@ -1,9 +1,9 @@
 {
-  "name": "WiKiHow",
-  "short_name": "WiKiHow",
+  "name": "wikihow",
+  "short_name": "wikihow",
   "start_url": "https://www.wikihow.com/Main-Page",
   "display": "standalone",
-  "theme_color": "#ffffff",
+  "theme_color": "#93B874",
   "icons": [
     {
       "src": "https://www.wikihow.com/skins/WikiHow/wH-initials_152x152.png",
