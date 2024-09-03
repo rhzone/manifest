@@ -1,0 +1,15 @@
+{
+  "name": "WiKiHow",
+  "short_name": "WiKiHow",
+  "start_url": "https://www.wikihow.com/Main-Page",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://www.wikihow.com/skins/WikiHow/wH-initials_152x152.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ]
+}
